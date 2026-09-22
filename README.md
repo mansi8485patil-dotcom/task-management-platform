@@ -394,17 +394,11 @@ MongoDB Atlas is used for cloud database storage.
 Use your actual working deployed test credentials before final submission.
 
 ```text
-Email: YOUR_TEST_EMAIL
-Password: YOUR_TEST_PASSWORD
+Email: testuser@example.com
+Password: Test@1234
 Role: User
 ```
 
-If an Admin account is available:
-
-```text
-Email: YOUR_ADMIN_EMAIL
-Password: YOUR_ADMIN_PASSWORD
-Role: Admin
 ```
 
 Do not add MongoDB passwords, JWT secrets, or other private credentials to this README.
